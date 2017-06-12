@@ -11,7 +11,7 @@ Clone the repo and run `cargo run`.
 ## Usage
 
 Currently supported commands are `ls`, `pwd`, `cs`, `exit`.
-
+![Demo](/assets/rust_cmis.gif?raw=true "Rusty CMIS")
 ## Contributing
 
 1. Fork it!
