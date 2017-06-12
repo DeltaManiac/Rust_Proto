@@ -1,0 +1,12 @@
+[package]
+name = "rusty_cmis"
+version = "0.1.0"
+authors = ["i077570 <harikrishnan.menon@sap.com>"]
+
+[dependencies]
+rpassword= "*"
+ansi_term = "*"
+hyper="*"
+hyper-native-tls="*"
+serde="*"
+serde_json="*"
